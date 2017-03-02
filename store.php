@@ -3,7 +3,7 @@
     <body>
         <center>
         <form method="post">
-            <table border="3" bgcolor="pink" cellspacing="10" cellpadding="5">
+            <table border="3" bgcolor="Red" cellspacing="10" cellpadding="5">
                 <tr>
                     <td><b>Name</b></td>
                     <td><input type="text" name="name" ></td>
